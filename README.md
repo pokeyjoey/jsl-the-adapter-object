@@ -1,0 +1,1 @@
+# jsl-the-adapter-object
